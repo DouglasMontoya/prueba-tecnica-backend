@@ -29,4 +29,4 @@
 
 6. **Construir la aplicacion**: Ejecuta `npm run build` para crear costruir la aplicacion.
 
-6. **Ejecutar el proyecto**: Finalmente, puedes ejecutar el proyecto con `npm run dev`. Tu aplicación Express ahora debería estar ejecutándose y conectándose a tu base de datos PostgreSQL.
+7. **Ejecutar el proyecto**: Finalmente, puedes ejecutar el proyecto con `npm run dev`. Tu aplicación Express ahora debería estar ejecutándose y conectándose a tu base de datos PostgreSQL.
