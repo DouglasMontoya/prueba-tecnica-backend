@@ -27,6 +27,6 @@
 
 5. **Crear la tabla e insertar datos**: Ejecuta `npm run seed` para crear la tabla en la base de datos e insertar algunos datos de prueba.
 
-6. **Construir la aplicacion**: Ejecuta `npm run build` para crear costruir la aplicacion.
+6. **Construir la aplicacion**: Ejecuta `npm run build` para costruir la aplicacion.
 
 7. **Ejecutar el proyecto**: Finalmente, puedes ejecutar el proyecto con `npm run dev`. Tu aplicación Express ahora debería estar ejecutándose y conectándose a tu base de datos PostgreSQL.
